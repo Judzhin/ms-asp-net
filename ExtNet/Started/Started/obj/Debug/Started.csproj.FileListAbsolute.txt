@@ -1,0 +1,17 @@
+D:\Projects\.NET\ASP\ExtNet\Started\Started\bin\Started.dll
+D:\Projects\.NET\ASP\ExtNet\Started\Started\bin\Started.pdb
+D:\Projects\.NET\ASP\ExtNet\Started\Started\bin\EntityFramework.dll
+D:\Projects\.NET\ASP\ExtNet\Started\Started\bin\Ext.Net.dll
+D:\Projects\.NET\ASP\ExtNet\Started\Started\bin\Ext.Net.Utilities.dll
+D:\Projects\.NET\ASP\ExtNet\Started\Started\bin\Microsoft.Web.Infrastructure.dll
+D:\Projects\.NET\ASP\ExtNet\Started\Started\bin\Newtonsoft.Json.dll
+D:\Projects\.NET\ASP\ExtNet\Started\Started\bin\Transformer.NET.dll
+D:\Projects\.NET\ASP\ExtNet\Started\Started\bin\WebActivatorEx.dll
+D:\Projects\.NET\ASP\ExtNet\Started\Started\bin\EntityFramework.xml
+D:\Projects\.NET\ASP\ExtNet\Started\Started\bin\Ext.Net.xml
+D:\Projects\.NET\ASP\ExtNet\Started\Started\bin\Ext.Net.Utilities.xml
+D:\Projects\.NET\ASP\ExtNet\Started\Started\bin\Newtonsoft.Json.xml
+D:\Projects\.NET\ASP\ExtNet\Started\Started\bin\Transformer.NET.xml
+D:\Projects\.NET\ASP\ExtNet\Started\Started\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\.NET\ASP\ExtNet\Started\Started\obj\Debug\Started.dll
+D:\Projects\.NET\ASP\ExtNet\Started\Started\obj\Debug\Started.pdb

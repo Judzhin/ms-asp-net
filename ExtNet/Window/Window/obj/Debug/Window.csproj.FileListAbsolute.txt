@@ -1,0 +1,17 @@
+G:\Projects\.NET\asp\Ext\Window\Window\bin\Window.dll
+G:\Projects\.NET\asp\Ext\Window\Window\bin\Window.pdb
+G:\Projects\.NET\asp\Ext\Window\Window\bin\EntityFramework.dll
+G:\Projects\.NET\asp\Ext\Window\Window\bin\Ext.Net.dll
+G:\Projects\.NET\asp\Ext\Window\Window\bin\Ext.Net.Utilities.dll
+G:\Projects\.NET\asp\Ext\Window\Window\bin\Microsoft.Web.Infrastructure.dll
+G:\Projects\.NET\asp\Ext\Window\Window\bin\Newtonsoft.Json.dll
+G:\Projects\.NET\asp\Ext\Window\Window\bin\Transformer.NET.dll
+G:\Projects\.NET\asp\Ext\Window\Window\bin\WebActivatorEx.dll
+G:\Projects\.NET\asp\Ext\Window\Window\bin\EntityFramework.xml
+G:\Projects\.NET\asp\Ext\Window\Window\bin\Ext.Net.xml
+G:\Projects\.NET\asp\Ext\Window\Window\bin\Ext.Net.Utilities.xml
+G:\Projects\.NET\asp\Ext\Window\Window\bin\Newtonsoft.Json.xml
+G:\Projects\.NET\asp\Ext\Window\Window\bin\Transformer.NET.xml
+G:\Projects\.NET\asp\Ext\Window\Window\obj\Debug\ResolveAssemblyReference.cache
+G:\Projects\.NET\asp\Ext\Window\Window\obj\Debug\Window.dll
+G:\Projects\.NET\asp\Ext\Window\Window\obj\Debug\Window.pdb

@@ -1,0 +1,12 @@
+@using Ext.Net;
+@using Ext.Net.MVC;
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml"; ;
+}
+@(Html.X().ResourceManager())
+
+@(Html.X().Button()
+        .Text("Show Window (Controller Action)")
+        .Icon(Icon.Application)
+        .DirectClickAction("Button2_Click")
+    )

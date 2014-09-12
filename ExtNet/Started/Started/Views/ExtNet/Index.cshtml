@@ -1,0 +1,48 @@
+@using Ext.Net;
+@using Ext.Net.MVC;
+
+@model Started.Models.ExtNetModel
+
+@{
+    Layout = null;
+    var X = Html.X();
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title>Title</title>    
+</head>
+<body>
+    @(X.ResourceManager())
+    
+    @using (Html.BeginForm()) {
+    
+        @(X.Panel()
+            .Title(Model.Title)
+            .Height(215)
+            .Width(350)
+            .Frame(true)
+            .Collapsible(true)
+            .Cls("box")
+            .BodyPadding(5)
+            .DefaultButton("Button1")
+            .Layout(LayoutType.Anchor)
+            .DefaultAnchor("100%")
+            .Items(Html.X().TextArea()
+                .Name("message")
+                .EmptyText(Model.TextAreaEmptyText)
+                .FieldLabel("Message")
+                .Height(85)
+            )
+            .Buttons(X.Button()
+                .ID("Button1")
+                .Text("Submit")
+                .Icon(Icon.Accept)
+                .DirectClickAction("SampleAction")
+            )
+        )
+    }
+</body>
+</html>
